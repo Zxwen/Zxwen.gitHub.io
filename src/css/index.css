@@ -319,7 +319,7 @@ nav{
 }
 /*名言*/
 .meng{
-    font-size:50px;
+    font-size:55px;
     font-family:"华文行楷";
     position:absolute;
     left:50%;
@@ -327,7 +327,7 @@ nav{
     bottom:40px;
     z-index:8;
     opacity:.6;
-    min-width: 800px;
+    min-width: 700px;
 }
 
 
