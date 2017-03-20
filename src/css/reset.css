@@ -11,9 +11,6 @@ ul,ol{
 body{
     overflow: hidden;
 }
-html{
-    width:100%;
-}
 .clear:after{
     content:"";
     display:table;
