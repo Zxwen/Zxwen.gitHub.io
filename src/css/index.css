@@ -142,9 +142,9 @@ nav{
 
 .left-ul li{
     width:100%;
-    height:100px;
+    height:70px;
     text-align:center;
-    line-height:100px;
+    line-height:70px;
     transition:1s;
     border-radius:10px;
     font-family: "华文行楷";
@@ -158,8 +158,8 @@ nav{
     font-size:40px;
     color:red;
     font-family: "华文行楷";
-    height:150px;
-    line-height: 150px;
+    height:90px;
+    line-height:90px;
     background:white;
 }
 .left-box{
@@ -326,7 +326,7 @@ nav{
     bottom:40px;
     z-index:8;
     opacity:.6;
-    min-width: 700px;
+    width: 700px;
 }
 
 
