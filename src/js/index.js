@@ -59,20 +59,3 @@ $(function(){
 })
 
 
-$(function(){
-    $(".nav-left-bar").click(function(){
-        $(".nav-left").animate({left:"-50%"});
-        $(".nav-right").animate({right:"-50%"});
-        timer=setInterval(z,4000)
-    })
-    $(".nav-right-bar").click(function(){
-        $(".nav-left").animate({left:"-50%"});
-        $(".nav-right").animate({right:"-50%"});
-        timer=setInterval(z,4000)
-    })
-       function z(){
-                $("nav").css("z-index","-1");
-            }
-  
-})
-
